@@ -12,7 +12,7 @@ http://127.0.0.1:5504/index.html
 
 # Usage
 
-- ensuring all links are working properly
+- ensuring all links work properly
 - CSS selectors and its properties all follow the semantics structure
 - CSS files are commented correctly
 
